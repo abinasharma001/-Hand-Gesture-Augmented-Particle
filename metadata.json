@@ -1,0 +1,7 @@
+{
+  "name": "Zen Particle Flow",
+  "description": "Interactive 3D particle playground controlled by hand gestures using webcam input.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
